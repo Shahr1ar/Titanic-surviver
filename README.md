@@ -1,1 +1,2 @@
-# cse445-assignment
+# CSE 445 Assignment
+Titanic Dataset
