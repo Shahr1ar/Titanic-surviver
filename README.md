@@ -1,2 +1,3 @@
-# CSE 445 Assignment
-Titanic Dataset
+# Titanic Dataset
+
+Acurecy test among some algorithoms
